@@ -1,0 +1,6 @@
+#Tue Apr 25 02:17:55 CEST 2023
+Brightness=3.0
+Lens_Flares=true
+DoF_Strength=50
+Depth_of_Field=true
+Godrays=true
